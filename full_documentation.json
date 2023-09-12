@@ -14,7 +14,7 @@
       "name": " ",
       "url": ""
     },
-    "x-generation-date": "2023-09-12T13:47:17.700Z"
+    "x-generation-date": "2023-09-12T16:04:28.312Z"
   },
   "x-strapi-config": {
     "plugins": [
@@ -49280,22 +49280,5 @@
       }
     }
   },
-  "tags": [
-    {
-      "name": "Users-Permissions - Auth",
-      "description": "Authentication endpoints",
-      "externalDocs": {
-        "description": "Find out more",
-        "url": "https://docs.strapi.io/developer-docs/latest/plugins/users-permissions.html"
-      }
-    },
-    {
-      "name": "Users-Permissions - Users & Roles",
-      "description": "Users, roles, and permissions endpoints",
-      "externalDocs": {
-        "description": "Find out more",
-        "url": "https://docs.strapi.io/developer-docs/latest/plugins/users-permissions.html"
-      }
-    }
-  ]
+  "tags": {}
 }
